@@ -1,8 +1,8 @@
 <div align=center>
 
-<img alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdiscord-anime&psig=AOvVaw3-04Fn7H-Ui2gzNRcbjeJ6&ust=1715674808645000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDguPCYioYDFQAAAAAdAAAAABAJ" width="457" height="480" />
+<img alt="GIF" src="./umarunnn.gif" width="457" height="480" />
 
-# Hello Mom!
+# Hello World!
 
 ####  Welcome to my page. Semester 4th from STMIK KAPUTAMA. My hobby just coding, gaming and sleep.
 
