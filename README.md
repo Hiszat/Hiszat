@@ -1,6 +1,6 @@
 <div align=center>
 
-<img alt="GIF" src="./umarunnn.gif" width="457" height="480" />
+<img alt="GIF" src="./umarunnn.gif" height="200" />
 
 # Hello World!
 
