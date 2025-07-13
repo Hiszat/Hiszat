@@ -4,7 +4,7 @@
 
 # Hello World!
 
-####  Welcome to my page. 6th Semester from STMIK KAPUTAMA. My hobby just coding, gaming and sleep.
+####  Welcome to my page. 7th Semester from STMIK KAPUTAMA.
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiszattamvan21@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hiszat)
